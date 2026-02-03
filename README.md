@@ -14,7 +14,7 @@
 
 <br>
 
-- Third-year IT student at Kafr El-Sheikh University
+- Fourth-year IT student at Kafr El-Sheikh University
 - Passionate about Full-Stack Development
 - Experienced in C#, Python, and Web Development
 - Developed e-commerce website and various Python games
