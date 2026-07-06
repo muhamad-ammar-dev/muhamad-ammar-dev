@@ -1,8 +1,7 @@
-
 <h1 align="center"><b>Hi , I'm Muhamad Ammar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student;Full-Stack+Developer;Python+and+C%23+Developer;Active+Learner;Love+to+code+and+create..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+Developer;Python+and+Django+Developer;React+Developer;Active+Learner;Love+to+code+and+architect+systems...<3"></a>
 </p>
 
 <br>
@@ -14,12 +13,12 @@
 
 <br>
 
-- Fourth-year IT student at Kafr El-Sheikh University
-- Passionate about Full-Stack Development
-- Experienced in C#, Python, and Web Development
-- Developed e-commerce website and various Python games
-- Completed internship at Suez Canal Authority
-- Fluent in Arabic, English, and French
+- 🎓 **Information Technology Graduate** from Kafr El-Sheikh University
+- 💻 Performance-driven Software Engineer specializing in **Python** and **Django**
+- 🛡️ Passionate about high-concurrency web architectures, Clean Code, and Role-Based Access Control (RBAC)
+- 🚀 Proven track record building production-ready Django ecosystems & enterprise tools
+- ⚓ Completed a technical engineering internship at the **Suez Canal Authority**
+- 🌐 Multilingual: Fluent in Arabic and English (Technical Proficiency), with Intermediate French
 
 <br><br>
 
@@ -30,39 +29,47 @@
 
 <p align="center">
 
-- **Programming Languages**:
+- **Programming Languages & Core**:
     
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-<br>   
+<br>    
     
-- **Front-End Development**:
+- **Backend Frameworks & Architecture**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+   ![DRF](https://img.shields.io/badge/Django_REST_Framework-Red?style=for-the-badge&logo=django&logoColor=white)
+   ![REST API](https://img.shields.io/badge/RESTful_API_Design-0078D4?style=for-the-badge)
+   ![Architecture](https://img.shields.io/badge/MVC_/_MVT_/_Decoupled-orange?style=for-the-badge)
 
 <br>
 
-- **Back-End & Databases**:
+- **Databases & Relational Design**:
 
-    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
     ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 <br>
 
-- **Tools & Platforms**:
+- **Front-End Design**:
+
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br>
+
+- **Tools, Security & Methodologies**:
 
     ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-    ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+    ![JWT](https://img.shields.io/badge/JWT_Auth-black?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+    ![RBAC](https://img.shields.io/badge/RBAC_Security-blue?style=for-the-badge)
 
 </p>
 
@@ -79,69 +86,70 @@
 
 ### 🎓 Education
 **Faculty of Computers and Information**  
-Kafr El-Sheikh University | 2022 - Present  
-- Information Technology Major  
-- Courses: C#, OOP, Web Development, Python  
+Kafr El-Sheikh University | 2022 - 2026  
+- Major: Bachelor of Information Technology  
+- Core Focus: Data Structures, Algorithms, OOP, Database Systems (DBMS), Web Engineering  
 
-### 💼 Work Experience
-**E-Commerce Development Team**  
-- Developed full-stack e-commerce platform  
-- Frontend: HTML, CSS, JavaScript  
-- Backend: C#, Microsoft SQL Server  
+### 💼 Engineering Experience
+**Suez Canal Authority | Intern**  
+- Developed data-driven web components integrated with Oracle Database across localized internal platforms.
+- Refactored frontend rendering algorithms, diminishing UI layout shifts and increasing client-side interaction speed.
 
-**Suez Canal Authority Internship**  
-- Web development with HTML/CSS/JavaScript  
-- Oracle Database backend experience  
+### 🏆 Enterprise & Production Projects
+| Project Name | Primary Tech Stack | Key Architectural Milestone |
+|--------------|--------------------|-----------------------------|
+| Django Full-Stack E-Commerce Platform | Django, Python, PostgreSQL, PayPal API | Implemented PayPal Gateway workflow, state validations, and dynamic shopping carts. |
+| DRF E-Commerce API Ecosystem | DRF, Python, Serializers, ViewSets | Fully decoupled backend architecture optimized via Class-Based Views (CBVs). |
+| Django Enterprise Inventory Infrastructure | Django, SQL, Automated Calculations | Governed real-time database calculations for multi-tenant Stock In/Out cycles. |
+| Django Enterprise Workflow & Ticket Management System | Python, Django, UUID Security, Bootstrap | Driven by immutable workflow lifecycles and rigid RBAC against privilege escalation. |
+| Django Multi-User CMS & Secure Publishing Platform | Python, Django, Custom Auth, Tailwind | Built low-level Authentication & Authorization pipelines with robust XSS/CSRF protections. |
+| Python Event-Driven Simulation Engine | Python, OOP, Graphic Engines, DSA | Programmed object-oriented event-driven simulations solving complex procedural rendering. |
 
-### 🏆 Notable Projects
-| Project | Technologies | Description |
-|---------|-------------|-------------|
-| E-Commerce Website | HTML, CSS, JS, C#, SQL | Team project for product sales platform |
-| Next.js Web App | Next.js, React | Optimized font-loading and UX tools |
-| Python Games | Python (Pygame) | Ping Pong, Snake, Falling Shapes games |
-
-### 🌟 Core Competencies
+### 🌟 Core Architectural Competencies
 ```text
-✔ Full-Stack Development
-✔ Problem Solving
-✔ Team Collaboration
-✔ Continuous Learning
-✔ Multilingual (Arabic, English, French)
+✔ Scalable Backend Infrastructure (Django & DRF)
+✔ Advanced Relational Schema Design & Query Optimization
+✔ Secure Access Control Layers (RBAC & JWT Cryptographic Pipelines)
+✔ Safe Financial Integration & Automated Webhook Handling
+✔ Adherence to Clean Code, DRY, & Scalable Software Design
 ```
 
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b>Let's Connect..! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40"> </b>
-<br>
-<div align='center'>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-ammar-18b427306)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhamad.ammar09001@qmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhamad-ammar-dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MuhamadAmm36641?t=VgZ5wL-2aDE-qoAheNhjfA&s=09)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/muhamad0900/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/)
-
-</div>
 
 <br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<br>
+
 <br>
 <br>
 
-<div align='center'>
+<div align="center">
 
-## <b>Thanks for visiting my profile! 😊</b>
-### <i>"Turning ideas into reality, one line of code at a time"</i>
+## <b>Let's Connect..! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40"></b>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://muhamad-ammar-dev.github.io/My-Portfolio-DevMA/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-ammar-18b427306)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhamad-ammar-dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhamad.ammar09001@gmail.com)
 
 </div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<br>
+<br>
+<br>
+
+<div align="center">
+
+## <b>Thanks for visiting my profile! 😊</b>
+
+### <i>"Translating complex business requirements into robust, modular software architecture."</i>
+
+</div>
+
 <br>
 <br>
 <br>
@@ -153,4 +161,4 @@ Kafr El-Sheikh University | 2022 - Present
 
 Credit: [Muhamad Ammar](https://github.com/muhamad-ammar-dev)
 
-Last Edited on: 17/04/2025
+Last Edited on: 06/07/2026
