@@ -88,7 +88,7 @@
 **Faculty of Computers and Information**  
 Kafr El-Sheikh University | 2022 - 2026  
 - Major: Bachelor of Information Technology  
-- Core Focus: Data Structures, Algorithms, OOP, Database Systems (DBMS), Web Engineering  
+- Core Focus: Data Structures, Algorithms, OOP, Database Systems (DBMS), Software Architecture 
 
 ### 💼 Engineering Experience
 **Suez Canal Authority | Intern**  
