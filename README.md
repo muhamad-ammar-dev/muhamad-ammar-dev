@@ -139,7 +139,7 @@ Kafr El-Sheikh University | 2022 - 2026
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <br>
-<br>
+<br>.
 <br>
 
 <div align="center">
