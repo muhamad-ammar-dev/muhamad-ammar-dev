@@ -103,7 +103,7 @@ Kafr El-Sheikh University | 2022 - 2026
 | Django Enterprise Inventory Infrastructure | Django, SQL, Automated Calculations | Governed real-time database calculations for multi-tenant Stock In/Out cycles. |
 | Django Enterprise Workflow & Ticket Management System | Python, Django, UUID Security, Bootstrap | Driven by immutable workflow lifecycles and rigid RBAC against privilege escalation. |
 | Django Multi-User CMS & Secure Publishing Platform | Python, Django, Custom Auth, Tailwind | Built low-level Authentication & Authorization pipelines with robust XSS/CSRF protections. |
-| Python Event-Driven Simulation Engine | Python, OOP, Graphic Engines, DSA | Programmed object-oriented event-driven simulations solving complex procedural rendering. |
+| Python Event-Driven Ping Pong Game | Python, OOP, Event-Driven Programming, Turtle Graphics, Collision Detection | Developed an object-oriented Ping Pong game featuring event-driven input handling, collision detection, and real-time game state management. |
 
 ### 🌟 Core Architectural Competencies
 ```text
